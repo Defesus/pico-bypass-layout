@@ -14,6 +14,7 @@ Standard USB HID keyboard implementations (such as `adafruit_hid.keyboard_layout
 ## Installation
 1. Copy `pico_bypass_layout.py` into the `/lib` folder (or root directory) of your `CIRCUITPY` drive.
 2. Ensure the standard `adafruit_hid` bundle is present in `/lib`.
+IF YOU HAVE PROBLEMS WITH LETTERS, CHANGE THE DELAY TIME
 
 ## Basic Usage
 
